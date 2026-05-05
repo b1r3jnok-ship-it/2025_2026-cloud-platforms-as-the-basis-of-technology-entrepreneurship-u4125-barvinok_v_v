@@ -4,7 +4,7 @@
 **Year:** 2025/2026  
 **Group:** U4125  
 **Author:** Barvinok Vsevolod Vladimirovich  
-**Lab:** Lab2  
+**Lab:** Lab1  
 **Date of create:** 05.05.2026  
 **Date of finished:** 05.05.2026 
 
