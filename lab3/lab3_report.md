@@ -37,3 +37,6 @@ Public access Access granted to public principals → Copy Public URL https://st
 
 По ссылке файл и правда открывался
 ![Картинка](9.png)   
+
+Далее всё удалил
+![Картинка](10.png)   
