@@ -29,5 +29,11 @@
 
 ### 5. Настроить публичный доступ для ваших файлов в настройках приватности   
 Permissions → Public access + Grant Access → AllUsers + Storage Object Admin
-
+![Картинка](6.png)   
+![Картинка](7.png)   
 ### 6. Создать ссылку на ваши файлы через контекстное меню файла
+Public access Access granted to public principals → Copy Public URL https://storage.googleapis.com/vbarvinok-bucket-lab3/images/product_1.png  
+![Картинка](8.png) 
+
+По ссылке файл и правда открывался
+![Картинка](9.png)   
